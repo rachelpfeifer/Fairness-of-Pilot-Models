@@ -1,0 +1,11 @@
+Category,Value,Code
+Gender,Male,1
+Gender,Female,2
+Pilot,Yes,1
+Pilot,No,0
+Race,White,1
+Race,Black or African American,2
+Race,American Indian or Alaska Native,3
+Race,Asian,4
+Race,Native Hawaiian or Pacific Islander,5
+Race,Other,6
